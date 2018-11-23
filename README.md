@@ -10,7 +10,7 @@ java -jar build/libs/orel-codes-langbattle-spark-1.0-all.jar
 
 Если через gradlew не получится, тогда установить [gradle](https://gradle.org/install/)
 
-3. Запросы принимаются по адресу `http://localhost:8080/`
+3. Запросы принимаются по адресу `http://localhost:4567/`
 
 Пример запроса:
 
